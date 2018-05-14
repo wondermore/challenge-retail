@@ -4,5 +4,5 @@ You have a file `Retail.csv` describing sales data for a hypothetical Camping Su
 Using your tool of choice, answer the following questions:
 
 1. Construct a report breaking down sales by country, sales channel, product and year. The report should be easy to navigate.
-2. Provide a list of recommendations for improving the store's profit. Back your recommendations up with argument.
+2. Provide a list of recommendations for improving the store's profit. Your recommendations will be analysed by a statistically sophisticated manager.
 3. What additional data would you want to collect? What analyses would it empower you to run? 
